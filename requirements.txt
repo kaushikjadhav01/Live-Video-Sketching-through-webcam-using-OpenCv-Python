@@ -1,0 +1,4 @@
+keras
+numpy
+matplotlib
+opencv-python
