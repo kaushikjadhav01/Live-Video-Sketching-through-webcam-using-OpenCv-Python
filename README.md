@@ -2,7 +2,7 @@
 <b>Computer Vision</b> model creates a live video sketch of frames through real time web cam video. Source code is written in <b>python</b> and model is based on <b>OpenCV</b>. <b>Keras</b> and <b>Numpy</b> have been used to optimize the performance of the model and posterize frames
 
 # Screenshots
-<img src="https://github.com/kaushikjadhav01/Live-Video-Sketching-through-webcam-using-OpenCv-Python/blob/master/output.gif">
+<img src="https://github.com/kaushikjadhav01/Live-Video-Sketching-through-webcam-using-OpenCv-Python/blob/master/output.gif"> 
 
 # Technologies used
 <ul>
@@ -22,3 +22,12 @@
 </ol>
 
 ### Note that video performance differs depending upon your Webcam. To improve performance, you might want to play around with the canny_edges 30,60  and the binarize 240 values in the code. Change them such that it suits your webcam
+
+# Authors
+## Kaushik Jadhav
+<ul>
+<li>Github:https://github.com/kaushikjadhav01</li>
+<li>Medium:https://medium.com/@kaushikjadhav01</li>
+<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
+<li>Portfolio:http://kaushikjadhav01.github.io/</li>
+</ul>
